@@ -2,12 +2,16 @@
   "name": "meta",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "type": "module",
+  "scripts": {
+    "view": "tsx courses/front-end-development/index.ts"
+  },
   "keywords": [],
   "author": "CASBytes",
   "license": "ISC",
   "description": "CASBytes Meta",
   "dependencies": {
+    "tsx": "^4.16.2",
     "uuid": "^10.0.0"
   }
 }
