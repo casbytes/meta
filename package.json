@@ -1,0 +1,13 @@
+{
+  "name": "meta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "CASBytes",
+  "license": "ISC",
+  "description": "CASBytes Meta",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
