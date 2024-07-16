@@ -4,14 +4,21 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "view": "tsx courses/front-end-development/index.ts"
+    "build": "tsx index.ts",
+    "lint": "tsc"
   },
   "keywords": [],
   "author": "CASBytes",
   "license": "ISC",
   "description": "CASBytes Meta",
   "dependencies": {
+    "@types/node": "^20.14.10",
+    "slugify": "^1.6.6",
     "tsx": "^4.16.2",
+    "typescript": "^5.5.3",
     "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^10.0.0"
   }
 }

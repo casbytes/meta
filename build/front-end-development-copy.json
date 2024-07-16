@@ -1,0 +1,38 @@
+{
+  "title": "front-end development copy",
+  "id": "f53a3721-43f3-48ea-a076-2f67dd853379",
+  "published": false,
+  "modules": [
+    {
+      "title": "overview",
+      "id": "1f5b4d15-d6b8-4423-8970-791eb0e4eefa",
+      "published": false,
+      "subModules": [
+        {
+          "title": "Overview",
+          "id": "4c683659-5a03-4a54-a2c3-7e56886b10a8",
+          "lessons": [
+            {
+              "title": "definition and role",
+              "id": "85bb8553-1e00-40d8-99b9-09a6ff2d98ae"
+            },
+            {
+              "title": "importance",
+              "id": "ecb4ac94-3574-4304-a750-e890da8c5e93"
+            },
+            {
+              "title": "key skills and technologies",
+              "id": "c164ba2e-9285-440c-9c5b-4eb101a54e31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "HTML",
+      "id": "7e8cede7-f73c-4ff7-8a2c-8c99afd87a1d",
+      "published": false,
+      "subModules": []
+    }
+  ]
+}

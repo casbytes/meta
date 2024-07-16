@@ -1,0 +1,38 @@
+{
+  "title": "front-end development",
+  "id": "4f396332-0374-4d3b-98d9-37a92d82bd30",
+  "published": false,
+  "modules": [
+    {
+      "title": "overview",
+      "id": "96bb12ef-d37b-4a9e-9e1f-769f6a4c8ecb",
+      "published": false,
+      "subModules": [
+        {
+          "title": "Overview",
+          "id": "ef95bfb7-d14b-4294-95da-aac82f2acd38",
+          "lessons": [
+            {
+              "title": "definition and role",
+              "id": "968d2136-9934-4414-ae12-fe9a6c4072b3"
+            },
+            {
+              "title": "importance",
+              "id": "1a665849-8001-462b-825b-b6a88cbb79b2"
+            },
+            {
+              "title": "key skills and technologies",
+              "id": "2f9b247a-f829-4c9c-82d6-c3f0e7162995"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "HTML",
+      "id": "148f0c37-8f56-4e0b-8c44-c33ac5874534",
+      "published": false,
+      "subModules": []
+    }
+  ]
+}

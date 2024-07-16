@@ -1,9 +1,8 @@
 import { v4 as uuid } from "uuid";
 import { modules } from "./modules";
-import { Course } from "../types";
 
-export const frontEndDevelopment: Course = {
-  title: "front-end development",
+export const frontEndDevelopmentCopy = {
+  title: "front-end development copy",
   id: uuid(),
   published: false,
   modules: [...modules],
