@@ -1,28 +1,28 @@
 {
   "title": "front-end development copy",
-  "id": "cb5eb65c-d891-4fe2-813b-5b71435e17f1",
+  "id": "100d27aa-edc4-4d27-9d8e-de11916c033f",
   "published": false,
   "modules": [
     {
       "title": "overview",
-      "id": "553c9de5-47a4-4f30-808c-46a4a91b624b",
+      "id": "37f3c4b7-63c9-4f7b-a08c-1c29be9ca2cd",
       "published": false,
       "subModules": [
         {
           "title": "Overview",
-          "id": "455ba6ae-fd26-4af2-9a94-a076c2089b9b",
+          "id": "8e7824b8-ddc2-40ae-90bd-722214b8c7e7",
           "lessons": [
             {
               "title": "definition and role",
-              "id": "0ba51c5b-594a-42d5-93fa-fb0db4519506"
+              "id": "83be8b8e-d783-4d40-bc65-2df9a4dfed6d"
             },
             {
               "title": "importance",
-              "id": "bd1fa15d-75a3-4b87-9378-c711932595df"
+              "id": "5a21b2b5-02f7-4819-9693-a2e379897a49"
             },
             {
               "title": "key skills and technologies",
-              "id": "347cf349-ac6f-4b9f-b29d-8e38ed94263f"
+              "id": "f37826b3-eae1-40d0-abb6-17540f608586"
             }
           ]
         }
@@ -30,7 +30,7 @@
     },
     {
       "title": "HTML",
-      "id": "73af806f-5ae2-4767-a8b9-b8997e785cd9",
+      "id": "b4752161-e914-40b4-b0b1-fbe34691d9af",
       "published": false,
       "subModules": []
     }
