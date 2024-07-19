@@ -1,0 +1,26 @@
+# Modules
+
+- Introduction
+- The Internet
+- HTML
+- CSS
+- CSS architecture
+- CSS preprocessors (Sass)
+- Writing CSS (Tailwind CSS)
+- JavaScript
+- TypeScript
+- Introduction to shell
+- Version control
+- Version control hosting
+- Package managers (npm)
+- Frameworks (ReactJS)
+- Build tools (Linters, formatters, and module bundlers)
+- Testing (Vitest and Playwright)
+- Authentication strategies
+- Web security basics
+- Web components
+- Server side rendering
+- GraphQL
+- Progressive web apps
+- Mobile apps (React-native)
+- Desktop apps (Electron)

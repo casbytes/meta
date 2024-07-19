@@ -2,7 +2,7 @@ import { v4 as uuid } from "uuid";
 import { modules } from "./modules";
 
 export const frontEndDevelopment = {
-  title: "front-end development copy",
+  title: "front-end development",
   id: uuid(),
   published: false,
   modules: [...modules],
