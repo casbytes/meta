@@ -1,3 +1,3 @@
-import { overview } from "./1-overview/index.js";
+import { introduction } from "./1-introduction/index";
 
-export const subModules = [overview];
+export const subModules = [introduction];
