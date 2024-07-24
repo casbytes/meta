@@ -1,7 +1,7 @@
 import slugify from "slugify";
 import path from "node:path";
 import fs from "node:fs";
-import { frontEndDevelopment } from "./courses/front-end-development";
+import { frontEndDevelopment } from "./course-meta/front-end-development";
 
 const courses = [
   {
