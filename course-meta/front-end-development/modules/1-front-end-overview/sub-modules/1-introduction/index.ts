@@ -1,6 +1,7 @@
 import { v4 as uuid } from "uuid";
 import { lessons } from "./lessons";
-export const introduction = {
+import { SubModule } from "../../../../../types";
+export const introduction: SubModule = {
   title: "introduction",
   id: uuid(),
   lessons: [...lessons],

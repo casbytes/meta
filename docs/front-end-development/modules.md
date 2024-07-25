@@ -1,6 +1,6 @@
 # Modules
 
-1.  [Introduction](./sub-modules/front-end-overview.md)
+1.  [Overview](./sub-modules/front-end-overview.md)
 2.  [The Internet](./sub-modules/the-internet.md)
 3.  [HTML](./sub-modules/html.md)
 4.  [CSS](./sub-modules/css.md)

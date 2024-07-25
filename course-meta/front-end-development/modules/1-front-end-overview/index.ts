@@ -1,9 +1,10 @@
 import { v4 as uuid } from "uuid";
 import { subModules } from "./sub-modules";
+import { Module } from "../../../types";
 
-export const introduction = {
+export const introduction: Module = {
   title: "front end overview",
   id: uuid(),
-  published: false,
+  gradingMethod: "MANUAL",
   subModules: [...subModules],
 };
