@@ -4,5 +4,6 @@ import { SubModule } from "../../../../../types";
 export const introduction: SubModule = {
   title: "introduction",
   id: uuid(),
+  gradingMethod: "MANUAL",
   lessons: [...lessons],
 };
