@@ -6,5 +6,6 @@ export const frontEndDevelopment: Course = {
   title: "front-end development",
   id: uuid(),
   published: false,
+  testEnvironment: "browser",
   modules: [...modules],
 };
