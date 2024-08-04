@@ -1,29 +1,82 @@
 {
   "title": "front-end development",
-  "id": "a726a92e-52ed-4588-b1ea-76a3756f908f",
+  "id": "db325da0-8051-4a6a-ae1f-29f98f1314e6",
   "published": false,
   "modules": [
     {
       "title": "front end overview",
-      "id": "0886be6f-03b9-4e0e-a0d1-dc8f4eb756d7",
-      "gradingMethod": "MANUAL",
+      "id": "e5bdf8de-8361-4ea1-bead-0ef9e681f3ec",
+      "checkpoint": false,
       "subModules": [
         {
           "title": "introduction",
-          "id": "d3900499-f689-45a5-8726-cdce4e2cef64",
-          "gradingMethod": "MANUAL",
+          "id": "4e104973-a992-4529-ac0b-b6d401986488",
+          "checkpoint": false,
           "lessons": [
             {
               "title": "definition and role",
-              "id": "78f9b292-04f7-4fd9-8ebf-61988a7de296"
+              "id": "8c08b460-1919-4248-90ba-f5a560a29d38"
             },
             {
               "title": "importance",
-              "id": "c6d8790c-08dc-4683-bbd0-9e1472695456"
+              "id": "97830368-518f-4a81-984d-5d9a7a6539d4"
             },
             {
               "title": "key skills and technologies",
-              "id": "9fbfcd83-e36d-4a3f-8d4e-913d892b0237"
+              "id": "98e398ec-6c84-4a69-b394-604f971db8ea"
+            }
+          ]
+        },
+        {
+          "title": "history",
+          "id": "c058970c-883a-4f9e-a5bd-f14405d2243c",
+          "checkpoint": false,
+          "lessons": [
+            {
+              "title": "evolution of frontend technologies",
+              "id": "355a40ff-cddc-4088-b21e-c610bbeb3508"
+            },
+            {
+              "title": "milstones in frontend development",
+              "id": "80089bcb-a676-4c8a-ba58-a09b19331667"
+            }
+          ]
+        },
+        {
+          "title": "job opportunities",
+          "id": "c45d925a-8445-4865-be9d-1ccb5daad654",
+          "checkpoint": false,
+          "lessons": [
+            {
+              "title": "career paths and job roles",
+              "id": "9dcfda39-04de-41ae-856d-f5dda5db36c9"
+            },
+            {
+              "title": "skills and qualifications",
+              "id": "23f86c17-6cac-417e-b3a4-495d53d1db28"
+            },
+            {
+              "title": "job outlook and trends",
+              "id": "5f9238d4-ff16-4502-9ff0-ac756078ac8b"
+            }
+          ]
+        },
+        {
+          "title": "web standards",
+          "id": "7faaac6e-27c1-4951-9cb0-45a1df33965d",
+          "checkpoint": false,
+          "lessons": [
+            {
+              "title": "definition and importance",
+              "id": "ed5c4e6d-61f3-4c96-ae1f-ccb7d67e00db"
+            },
+            {
+              "title": "overview of key web standards organizations",
+              "id": "4b9f5e43-0fc1-4731-a625-8d4b6e01415d"
+            },
+            {
+              "title": "common web standards",
+              "id": "438ff438-0f3d-4351-8fd1-7700fae03cc1"
             }
           ]
         }
@@ -31,8 +84,7 @@
     },
     {
       "title": "HTML",
-      "id": "c759dc4c-0eeb-4b77-8dbf-0bfee6f30df6",
-      "published": false,
+      "id": "a48b9387-d81f-46d5-b728-a06a19befdce",
       "subModules": []
     }
   ]

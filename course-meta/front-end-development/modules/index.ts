@@ -1,4 +1,4 @@
-import { introduction } from "./1-front-end-overview";
-import { html } from "./2-html";
+import { overview } from "./1-front-end-overview";
+import { html } from "./3-html";
 
-export const modules = [introduction, html];
+export const modules = [overview, html];

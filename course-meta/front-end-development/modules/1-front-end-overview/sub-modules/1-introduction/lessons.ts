@@ -1,5 +1,6 @@
 import { v4 as uuid } from "uuid";
-export const lessons = [
+import { Lesson } from "../../../../../types";
+export const lessons: Lesson[] = [
   {
     title: "definition and role",
     id: uuid(),
