@@ -1,83 +1,83 @@
 {
   "title": "front-end development",
-  "id": "00fc75f3-3eb3-40bf-b26f-c2bcfdc373fa",
+  "id": "6facf0a5-b8c4-43b2-89c6-561289b459df",
   "published": false,
   "testEnvironment": "browser",
   "modules": [
     {
       "title": "front end overview",
-      "id": "1062e696-c76a-46db-aaf8-849e7da62ed8",
+      "id": "061be0c1-4111-4f16-8f00-500f0a8972c7",
       "checkpoint": false,
       "subModules": [
         {
           "title": "introduction",
-          "id": "10cdbf75-af96-4348-8091-f7f849990719",
+          "id": "6b1910d4-00a9-434f-accc-08f173a7f406",
           "checkpoint": false,
           "lessons": [
             {
               "title": "definition and role",
-              "id": "1c2f1c83-4a79-4ac9-b3e1-05fb584c6843"
+              "id": "3061c1e4-d03c-4f46-be2f-62e69f852d80"
             },
             {
               "title": "importance",
-              "id": "2bd914fd-6e5e-4902-9864-a2a2dc62beec"
+              "id": "7cbcd2ad-ac56-4c08-8b9b-8621cf66e99a"
             },
             {
               "title": "key skills and technologies",
-              "id": "3b77badc-f34a-4aa0-809d-1bb2f4379aad"
+              "id": "2977d509-cbbe-417f-82df-3445968fcbe3"
             }
           ]
         },
         {
           "title": "history",
-          "id": "7a514543-dd22-4805-b5af-cc13b5ce0862",
+          "id": "11cd730f-cf72-4529-9b32-fa72c1edf151",
           "checkpoint": false,
           "lessons": [
             {
               "title": "evolution of frontend technologies",
-              "id": "b288c620-47da-4054-96ae-63f189960aa8"
+              "id": "5d49f620-5542-4abc-96c2-c55e08774ad9"
             },
             {
               "title": "milstones in frontend development",
-              "id": "6e04a3eb-85ab-482a-a345-399c39324b8e"
+              "id": "9e19fc3e-99bc-4cb5-9772-3d005fdc2186"
             }
           ]
         },
         {
           "title": "job opportunities",
-          "id": "ddd28325-73de-49d7-94d5-4495101ea8be",
+          "id": "974c487b-fc0f-4982-ad70-7918add9917e",
           "checkpoint": false,
           "lessons": [
             {
               "title": "career paths and job roles",
-              "id": "5c920480-42b4-42ac-b8df-d6a2543e0577"
+              "id": "daa95615-4b0b-4384-999a-ee9dae4af0e9"
             },
             {
               "title": "skills and qualifications",
-              "id": "da4acdc7-0ccd-40d5-8b27-fc24db13aa56"
+              "id": "8b3f2d20-2906-4d7e-a4c3-2248a46ba72b"
             },
             {
               "title": "job outlook and trends",
-              "id": "61acc35f-2ae6-460c-9a61-b246c6afb45f"
+              "id": "8a9a64f1-6fe4-406e-885f-d16547c5f6b5"
             }
           ]
         },
         {
           "title": "web standards",
-          "id": "7076386b-7b45-4070-b374-74edd776f61a",
+          "id": "5612d506-0c91-498a-930e-6c9d0a63596d",
           "checkpoint": false,
           "lessons": [
             {
               "title": "definition and importance",
-              "id": "cfbf9f3f-d4bf-49a6-b90a-ab1036e0c307"
+              "id": "86586528-7b9c-4a32-ad34-58601f6cd6e2"
             },
             {
               "title": "overview of key web standards organizations",
-              "id": "fa10d63e-4c4f-4bdd-aed3-ed6e28d7afff"
+              "id": "49457bc8-8757-449f-8617-4bca7bd69018"
             },
             {
               "title": "common web standards",
-              "id": "75fa9499-6814-442a-86f8-f1182fc65546"
+              "id": "ad510ba7-b495-4029-97c8-1523dcef98ac"
             }
           ]
         }
@@ -85,80 +85,80 @@
     },
     {
       "title": "the internet",
-      "id": "72a53f40-688c-47b6-8127-ee6a67424c4d",
+      "id": "4016d454-2f16-456e-a96f-95790ba7bdf8",
       "checkpoint": false,
       "subModules": [
         {
           "title": "how the internet works",
-          "id": "c0595d0a-bb3d-4dd3-9ee8-b86a17f872c0",
+          "id": "070615cb-17a6-45de-8989-18e2550fda94",
           "checkpoint": false,
           "lessons": [
             {
               "title": "introduction",
-              "id": "1cb4ab9f-2e09-4863-a002-588ae34cd4b9"
+              "id": "4aa52eb1-fa50-4675-be50-8c672170cd4f"
             },
             {
               "title": "concepts and terminologies",
-              "id": "2dfab237-2e92-4fa2-b427-1546b62aff70"
+              "id": "edc4d3dc-c211-4500-8855-c0e2f01441c7"
             },
             {
               "title": "the role of protocols in internet",
-              "id": "4a4dcd2a-e948-49d5-a134-3071c0ffb8ac"
+              "id": "161b98d1-c56f-4ec9-affd-93512bdedc9e"
             },
             {
               "title": "IP addresses and domain names",
-              "id": "8550d004-4fb0-485b-ac96-eac05729d80d"
+              "id": "0434f0fd-4a6c-4a96-9e87-35aa8d428c0c"
             },
             {
               "title": "Introduction to HTTP and HTTPS",
-              "id": "3ab01879-ae95-44de-9067-52d181f866b5"
+              "id": "024bbc3b-ab4c-4f90-b32c-c207d07a9454"
             },
             {
               "title": "Building applications with TCP/IP",
-              "id": "d8e8c96d-f563-481b-ab61-abe8ca107b0e"
+              "id": "8a5baf50-3c91-4f1a-891f-006936643d4e"
             },
             {
               "title": "Securing internet communication with SSL/TLS",
-              "id": "ad057142-57bb-44c8-a0a8-18d6fd74c453"
+              "id": "ce2648f7-a8a4-450d-9765-e284a0626e24"
             },
             {
               "title": "Emerging trends and technologies",
-              "id": "7819ea41-5e94-4e76-9291-ea49071be526"
+              "id": "2045ec4d-7aa4-40d6-8f73-e06a7d8d9082"
             }
           ]
         },
         {
           "title": "HTTP(s)",
-          "id": "d628c417-9500-4f1c-9a14-15d4e8900605",
+          "id": "e7ccc0c5-a809-4fe9-8e3b-ee2a8fa849e0",
           "checkpoint": false,
           "lessons": [
             {
               "title": "overview",
-              "id": "444bf13a-c73c-4059-85f0-490b2efeed19"
+              "id": "9ad82dda-f881-4043-805a-125f6c34d930"
             },
             {
               "title": "HTTP/0.9",
-              "id": "54b7abee-92b4-4cf2-b42a-407e297ed91d"
+              "id": "6b8f913d-3948-4a9c-9018-85ce66e62f42"
             },
             {
               "title": "HTTP/1.0",
-              "id": "0a47866b-dab9-4217-a7bf-c7d29fa7379f"
+              "id": "6535ccc1-232b-489b-a177-3d1c919508ba"
             },
             {
               "title": "HTTP/1.1",
-              "id": "37d288cd-61cd-4b08-8d62-65a936951396"
+              "id": "95377897-c9fd-48a1-91a5-7fa9042f5b54"
             },
             {
               "title": "SPDY",
-              "id": "41123424-673c-4ac6-ad7a-800461ded33a"
+              "id": "8d8688dc-ccfa-4f4c-8a75-c0569f98c414"
             },
             {
               "title": "HTTP/2",
-              "id": "0c640441-4318-4b0e-aa1b-c6a77f2dd796"
+              "id": "5f0dc23e-aec9-4413-adda-8fae71c4b522"
             },
             {
               "title": "HTTP/3",
-              "id": "4c0d67b0-03f7-4411-aac4-dce5b9331d82"
+              "id": "31c3dc7d-756f-4640-ad56-419ff6e28c1e"
             }
           ]
         }
