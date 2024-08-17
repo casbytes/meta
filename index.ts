@@ -6,7 +6,7 @@ import { frontEndDevelopment } from "./course-meta/front-end-development";
 const courses = [
   {
     data: frontEndDevelopment,
-    fileName: slugify(frontEndDevelopment.title) + ".json",
+    fileName: slugify(frontEndDevelopment.title, { lower: true }) + ".json",
   },
 ];
 
