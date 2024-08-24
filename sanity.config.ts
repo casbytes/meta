@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'meta',
   studioHost: 'casbytes',
-  projectId: process.env.SANITY_STUDIO_PROJECT_ID!,
+  projectId: process.env.SANITY_STUDIO_PROJECT_ID ?? '3c6o9k5n',
   dataset: process.env.SANITY_STUDIO_DATASET!,
 
   plugins: [structureTool(), visionTool()],
