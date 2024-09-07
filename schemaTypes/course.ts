@@ -12,6 +12,12 @@ export const courseType = defineType({
       validation: (Rule) => Rule.required().error('Title is required'),
     }),
     defineField({
+      name: 'image',
+      title: 'Image',
+      type: 'string',
+      validation: (Rule) => Rule.required().error('Image is required'),
+    }),
+    defineField({
       name: 'slug',
       title: 'Slug',
       type: 'slug',
@@ -27,6 +33,7 @@ export const courseType = defineType({
       type: 'boolean',
       initialValue: false,
     }),
+
     defineField({
       name: 'testEnvironment',
       title: 'Test Environment',
@@ -35,6 +42,13 @@ export const courseType = defineType({
         list: ['node', 'browser', 'python'],
         layout: 'radio',
       },
+      validation: (Rule) => Rule.required().error('Test Environment is required'),
+    }),
+    defineField({
+      name: 'description',
+      title: 'Description',
+      type: 'markdown',
+      validation: (Rule) => Rule.required().error('Description is required'),
     }),
     defineField({
       name: 'module',
