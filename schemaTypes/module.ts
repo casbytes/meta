@@ -1,4 +1,4 @@
-import {defineField, defineType} from 'sanity'
+import { defineField, defineType } from 'sanity'
 
 export const moduleType = defineType({
   name: 'module',
@@ -22,8 +22,26 @@ export const moduleType = defineType({
       validation: (Rule) => Rule.required().error('Slug is required'),
     }),
     defineField({
+      name: 'tags',
+      title: 'Tags',
+      type: 'string',
+      validation: (Rule) => Rule.required().error('Tags is required'),
+    }),
+    defineField({
       name: 'checkpoint',
       title: 'Checkpoint',
+      type: 'boolean',
+      initialValue: true,
+    }),
+    defineField({
+      name: 'published',
+      title: 'Published',
+      type: 'boolean',
+      initialValue: false,
+    }),
+    defineField({
+      name: 'premium',
+      title: 'Premium',
       type: 'boolean',
       initialValue: true,
     }),
@@ -36,13 +54,19 @@ export const moduleType = defineType({
         list: ['node', 'browser', 'python'],
         layout: 'radio',
       },
-      hidden: ({document}) => !document?.checkpoint,
+      hidden: ({ document }) => !document?.checkpoint,
+    }),
+    defineField({
+      name: 'description',
+      title: 'Description',
+      type: 'markdown',
+      validation: (Rule) => Rule.required().error('Description is required'),
     }),
     defineField({
       name: 'subModule',
       title: 'Sub Modules',
       type: 'array',
-      of: [{type: 'reference', to: [{type: 'subModule'}]}],
+      of: [{ type: 'reference', to: [{ type: 'subModule' }] }],
     }),
   ],
 })
