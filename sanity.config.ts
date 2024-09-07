@@ -7,8 +7,8 @@ import { schemaTypes } from './schemaTypes'
 export default defineConfig({
   name: 'default',
   title: 'meta',
-  projectId: process.env.SANITY_STUDIO_PROJECT_ID!,
-  dataset: process.env.SANITY_STUDIO_DATASET!,
+  projectId: '3c6o9k5n',
+  dataset: 'production',
 
   plugins: [structureTool(), visionTool(), markdownSchema()],
 

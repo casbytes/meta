@@ -44,6 +44,7 @@ export const article = defineType({
       name: 'image',
       title: 'Image',
       type: 'image',
+      validation: (Rule) => Rule.required().error('Image is required'),
     }),
 
     defineField({
@@ -52,14 +53,17 @@ export const article = defineType({
       type: 'text',
       validation: (Rule) => Rule.required().error('Title is required'),
     }),
-
     defineField({
       name: 'content',
       title: 'Content',
       type: 'markdown',
       validation: (Rule) => Rule.required().error('Content is required'),
     }),
-
+    defineField({
+      name: 'videoId',
+      title: 'Youtube Video ID',
+      type: 'string',
+    }),
     defineField({
       name: 'author',
       title: 'Author',
